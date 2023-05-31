@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Francisco Brito Jr</h1>
 <h3 align="center">A passionate developer</h3>
 
-- 🌱 I’m currently learning **React, Next, TypeScript**
+- 🌱 I’m currently learning **React.js, Next.js, TypeScript**
 
 - 👨‍💻 Know about my experiences (under construction) [https://fbritojunior.github.io/](https://fbritojunior.github.io/)
 
