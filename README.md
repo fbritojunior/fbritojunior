@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Francisco Brito Jr</h1>
 <h3 align="center">A passionate developer</h3>
 
-- 🔭 I’m currently working on [ObservaEPS](https://observatorio.esp.ce.gov.br/)
-
 - 🌱 I’m currently learning **React, Next, TypeScript**
 
 - 👨‍💻 All of my projects are available at [https://fbritojunior.github.io/](https://fbritojunior.github.io/)
