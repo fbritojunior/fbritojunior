@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **React, Next, TypeScript**
 
-- 👨‍💻 Know about my experiences [https://fbritojunior.github.io/](https://fbritojunior.github.io/)
+- 👨‍💻 Know about my experiences (under construction) [https://fbritojunior.github.io/](https://fbritojunior.github.io/)
 
 - 📫 How to reach me **devbritojr@gmail.com**
 
