@@ -3,9 +3,9 @@
 
 - my information card: https://my-card-eight.vercel.app/ 
 
-- 🌱 I’m currently learning **React.js, Next.js, TypeScript**
-
 - 👨‍💻 Know about my experiences (under construction) [https://fbritojunior.github.io/](https://fbritojunior.github.io/)
+
+- 🌱 I’m currently learning **React.js, Next.js, TypeScript**
 
 - 📫 How to reach me **devbritojr@gmail.com**
 
