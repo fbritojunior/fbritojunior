@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Francisco Brito Jr</h1>
 <h3 align="center">A passionate developer</h3>
 
-- my information card: https://my-card-eight.vercel.app/ 
+
+- 🆔 my information card: https://my-card-eight.vercel.app/ 
 
 - 👨‍💻 Know about my experiences (under construction) [https://fbritojunior.github.io/](https://fbritojunior.github.io/)
 
