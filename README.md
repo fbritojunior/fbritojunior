@@ -1,17 +1,19 @@
-<h1 align="center">Hi 👋, I'm Francisco Brito Jr</h1>
+<h1 align="center">Hi 👋, I'm Francisco Brito Jr.</h1>
 
-<h3 align="center">Front-end Developer · React · Next.js · TypeScript</h3>
+<h3 align="center">
+  Front-end Developer · React · Next.js · TypeScript
+</h3>
 
 <p align="center">
-  Building modern, scalable and user-focused web applications.
+  I build modern web applications focused on <strong>performance, usability, data visualization and scalable front-end architecture.</strong>
 </p>
 
 <p align="center">
   <a href="https://my-card-eight.vercel.app/">
-    <img src="https://img.shields.io/badge/My%20Card-Visit-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="My Card" />
+    <img src="https://img.shields.io/badge/Portfolio-My%20Card-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="My Card" />
   </a>
   <a href="https://fbritojunior.github.io/">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-3178C6?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/Portfolio-Website-3178C6?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
   </a>
   <a href="https://linkedin.com/in/fbritojunior">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -20,104 +22,125 @@
 
 ---
 
-## 👨‍💻 About me
+## 👨‍💻 About Me
 
-I'm a **Front-end Developer** focused on building modern web applications with **React, Next.js and TypeScript**.
+I'm a **Front-end Developer** focused on building modern and maintainable web applications.
 
-I enjoy working on applications that combine **clean UI, good architecture, performance and great user experience**.
+My main stack is **React, Next.js and TypeScript**, with experience developing applications involving data visualization, interactive maps, APIs and complex user interfaces.
 
-My experience includes:
+I enjoy turning complex requirements and data into **simple, intuitive and performant user experiences**.
 
-* ⚛️ Modern React applications
-* ▲ Next.js and App Router
-* 🔷 TypeScript
-* 🎨 Tailwind CSS and component-based UI
-* 📊 Data visualization with D3.js
-* 🗺️ Interactive maps and geospatial applications
-* 🔄 API integration and state management
-* 🚀 CI/CD and Git-based development workflows
+### What I work with
 
-Currently focused on improving **front-end architecture, performance, accessibility and developer experience**.
-
----
-
-## 🛠️ Tech Stack
-
-### Front-end
-
-<p align="left">
-  <a href="https://react.dev/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="45" height="45"/>
-  </a>
-  <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="Next.js" width="45" height="45"/>
-  </a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="45" height="45"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="45" height="45"/>
-  </a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="45" height="45"/>
-  </a>
-  <a href="https://html.spec.whatwg.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="45" height="45"/>
-  </a>
-  <a href="https://www.w3.org/Style/CSS/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="45" height="45"/>
-  </a>
-</p>
-
-### Data Visualization & Maps
-
-<p align="left">
-  <a href="https://d3js.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" alt="D3.js" width="45" height="45"/>
-  </a>
-  <a href="https://leafletjs.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/leaflet/leaflet-original.svg" alt="Leaflet" width="45" height="45"/>
-  </a>
-</p>
-
-### Backend & Infrastructure
-
-<p align="left">
-  <a href="https://nodejs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="45" height="45"/>
-  </a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="45" height="45"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="45" height="45"/>
-  </a>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="45" height="45"/>
-  </a>
-</p>
+* ⚛️ **React & Next.js** — modern web applications and scalable front-end architecture
+* 🔷 **TypeScript** — type-safe and maintainable applications
+* 🎨 **UI & Design Systems** — Tailwind CSS, component-based interfaces and responsive design
+* 📊 **Data Visualization** — D3.js and interactive dashboards
+* 🗺️ **Geospatial Applications** — interactive maps and location-based data
+* 🔄 **API Integration** — REST APIs, authentication and application state
+* 🚀 **CI/CD** — GitLab workflows, automated builds and deployments
+* 📱 **PWA** — offline-first web applications and client-side persistence
 
 ---
 
-## 📌 Featured Projects
+## 🧰 Tech Stack
 
-### 🌎 Data Visualization & Geospatial Applications
+### Core
 
-Applications focused on **interactive maps, data visualization and large datasets**, combining React, D3.js and geospatial technologies.
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="42" height="42"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="Next.js" width="42" height="42"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="42" height="42"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="42" height="42"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="42" height="42"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="42" height="42"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind CSS" width="42" height="42"/>
+</p>
 
-### 🧩 Modern Front-end Applications
+### Data Visualization & Geospatial
 
-Web applications built with:
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" alt="D3.js" width="42" height="42"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/leaflet/leaflet-original.svg" alt="Leaflet" width="42" height="42"/>
+</p>
 
-**React · Next.js · TypeScript · Tailwind CSS · REST APIs**
+### State, APIs & Application Architecture
 
-> More projects and case studies coming soon.
+<p align="left">
+
+`Zustand` · `REST APIs` · `Axios` · `React Query` · `PWA` · `i18n`
+
+</p>
+
+### Development & Infrastructure
+
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="42" height="42"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="42" height="42"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="42" height="42"/>
+</p>
+
+`GitLab CI/CD` · `ESLint` · `Prettier` · `Docker`
 
 ---
 
-## 📫 Let's connect
+## 🚀 Featured Work
 
-<p align="left">
+### 🗺️ Geospatial & Data Visualization
+
+Building interactive applications that combine **maps, large datasets and data visualization**.
+
+Technologies:
+
+`React` · `TypeScript` · `D3.js` · `Leaflet` · `Geospatial Data`
+
+---
+
+### 📊 Interactive Dashboards
+
+Developing data-driven dashboards designed to transform complex datasets into clear and actionable information.
+
+Technologies:
+
+`React` · `JavaScript` · `D3.js` · `REST APIs`
+
+---
+
+### ⚡ Modern Web Applications
+
+Building scalable applications with modern React and Next.js patterns.
+
+Technologies:
+
+`Next.js` · `React` · `TypeScript` · `Tailwind CSS` · `Zustand`
+
+---
+
+## 🧠 Currently Exploring
+
+* ⚡ Advanced React & Next.js architecture
+* 🏗️ Scalable front-end architecture
+* 🚀 Web performance & Core Web Vitals
+* ♿ Accessibility
+* 📱 Progressive Web Apps
+* 🌎 Geospatial applications
+* 📊 Advanced data visualization
+* 🧪 Front-end testing and quality engineering
+
+---
+
+## 📈 GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=fbritojunior&show_icons=true&hide_border=true&locale=en" height="165" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=fbritojunior&layout=compact&hide_border=true&locale=en" height="165" alt="Top Languages" />
+</p>
+
+---
+
+## 🤝 Let's Connect
+
+<p align="center">
   <a href="mailto:devbritojr@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
@@ -126,11 +149,6 @@ Web applications built with:
   </a>
 </p>
 
----
-
-## 📊 GitHub Stats
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fbritojunior&show_icons=true&hide_border=true&locale=en" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=fbritojunior&layout=compact&hide_border=true&locale=en" alt="Top Languages" />
+  <i>Building interfaces, visualizing data and turning complex problems into simple experiences.</i>
 </p>
